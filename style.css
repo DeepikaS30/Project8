@@ -1,0 +1,34 @@
+body{
+    background-color: lightgreen;
+    margin-left: 458px;
+}
+select{
+    width: 170%px;
+    padding: 2px;
+    border: 2px solid whitesmoke;
+    
+}
+input[type="submit"]{
+    /* color:green; */
+    background-color: green;
+    cursor: pointer;
+    height: 20px;
+    width: 100px;
+
+}
+
+.form{
+    background-color: rgb(29, 173, 166);
+    padding-left: 10px;
+    width: 250px;
+}
+/* #Gender{ */
+    /* width: 128px; */
+    /* height: 30px; */
+/* } */
+#buttn{
+    background-color: green;
+    color:white;
+    height: 30px;
+    width: 128px;
+}
